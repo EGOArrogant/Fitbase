@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.2.0.zip",
-  "sha256": "56815849c3e81c360f14c9c7a74f055e38ec71a5dfb302b5b55ce6d2884d06ce",
-  "notas": "Menú por categorías con colores e íconos, más contraste en textos, ícono de sección en cada página y accesos rápidos en Inicio."
+  "version": "2.3.0",
+  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.3.0.zip",
+  "sha256": "7257cabd3cbe353434f97da959ba92909fd318c5531c71c020e872c623247107",
+  "notas": "Barra lateral en riel, modo claro de bajo brillo, idioma estable, alergias y dietas, suplementación personalizada, documentos legales y consentimientos, bot de diagnóstico, clave de IA desde Administración, PDF profesionales y QR corregido."
 }
