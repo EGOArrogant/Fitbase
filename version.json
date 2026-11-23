@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.1.2.zip",
-  "sha256": "b9a274ea1a446216eff5c9f24831de84703f89c731513adc35b7ea21d1b9c0e6",
-  "notas": "Las versiones también se pueden publicar como archivos del repositorio (sin Releases). Incluye el diseño estable en francés e inglés."
+  "version": "2.2.0",
+  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.2.0.zip",
+  "sha256": "56815849c3e81c360f14c9c7a74f055e38ec71a5dfb302b5b55ce6d2884d06ce",
+  "notas": "Menú por categorías con colores e íconos, más contraste en textos, ícono de sección en cada página y accesos rápidos en Inicio."
 }
