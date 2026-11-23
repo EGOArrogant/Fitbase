@@ -1,6 +1,6 @@
 {
-  "version": "2.3.0",
-  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.3.0.zip",
-  "sha256": "7257cabd3cbe353434f97da959ba92909fd318c5531c71c020e872c623247107",
-  "notas": "Barra lateral en riel, modo claro de bajo brillo, idioma estable, alergias y dietas, suplementación personalizada, documentos legales y consentimientos, bot de diagnóstico, clave de IA desde Administración, PDF profesionales y QR corregido."
+  "version": "2.3.1",
+  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.3.1.zip",
+  "sha256": "005f957e0c015696fec3583e0e5f81c5519c98772404aaf12e99dbf3a820c22f",
+  "notas": "Correcciones de calidad: suplementos seguros, dieta personalizada por alergias, menú con más proteína, diario y registro rápido más precisos, notificaciones al coach, diseño pulido en web y celular, traducciones y menor costo de IA."
 }
