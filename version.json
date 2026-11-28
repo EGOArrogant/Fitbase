@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.3.2.zip",
-  "sha256": "ec3e2b89347b5cf6e32ff41b98838e49872e3d24cc9b80961c03269f9e5e1cc0",
-  "notas": "Pulido visual completo: calendario de Inicio sin recortes, segunda revisión en computadora, tableta y celular (20 detalles corregidos), indicador de tablas deslizables y QR garantizado."
+  "version": "2.4.0",
+  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.4.0.zip",
+  "sha256": "a8d64dcc6403335cf507c6096b10546bed7976ac22633b4bb7be46a5054dfb0f",
+  "notas": "FitBase 3.0 fase 1: cronómetros e intervalos, sueño, bienestar y salud mental con protocolo de crisis, calentamiento por deporte, recuperación prioritaria, guía de alta de cliente, guía ilustrada de mediciones y más de 1,000 combinaciones de alimentos."
 }
