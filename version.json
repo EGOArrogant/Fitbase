@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.4.0.zip",
-  "sha256": "a8d64dcc6403335cf507c6096b10546bed7976ac22633b4bb7be46a5054dfb0f",
-  "notas": "FitBase 3.0 fase 1: cronómetros e intervalos, sueño, bienestar y salud mental con protocolo de crisis, calentamiento por deporte, recuperación prioritaria, guía de alta de cliente, guía ilustrada de mediciones y más de 1,000 combinaciones de alimentos."
+  "version": "2.5.0",
+  "url": "https://raw.githubusercontent.com/EGOArrogant/Fitbase/main/versiones/fitapp-2.5.0.zip",
+  "sha256": "d6c29e4fd45a6cb253b5635991d625fe1b7333b034042d028b9bbeb2455e9916",
+  "notas": "Auditoría y correcciones críticas: reporte diario de 14 días reales, sondeo con historial inmutable, cambiar plantilla/días/equipo con vista previa y deshacer, ¿Qué entrenamos hoy? y Mi plan inteligente rediseñados, porciones caseras completas, menú sin recetas duplicadas e hidratación por vasos."
 }
